@@ -369,7 +369,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .custom-purple {
   padding: 0 10px;
 }
 
@@ -564,23 +564,23 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .custom-purple-text */
 
-.teal-text {
+.custom-purple-text {
   color: #aecaff !important;
 }
 
-/* .teal-text {
+/* .custom-purple-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .custom-purple */
 
-.teal {
+.custom-purple {
   background-color: #6771c8 !important
 }
 
-/* .teal {
+/* .custom-purple {
   background-color: #00695c !important;
 } */
 

@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid #aecaff; 
   border-radius: 50% !important;
 }
 
@@ -283,12 +283,30 @@ li.logo span {
   font-size: 14px;
 }
 
+.company-logo{
+  width: 100px;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 600px) {
+  .company-logo {
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
+.uoft-logo{
+  height:400px;
+}
 .brand-logo h1 {
   font-size: inherit;
   line-height: inherit;
   margin: inherit;
   font-weight: inherit;
 }
+
 
 .container {
   width: 95%;
@@ -356,7 +374,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgb(140 147 208);
   height: 100%;
   left: 0;
   position: absolute;
@@ -549,7 +567,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #aecaff !important;
 }
 
 /* .teal-text {
@@ -559,7 +577,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #6771c8 !important
 }
 
 /* .teal {
